@@ -1,0 +1,21 @@
+button {
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 8px;
+}
+
+#codeblock.failure {
+  color: red;
+}
+#codeblock.success {
+  color: green;
+}
+label {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+input[type=text], input[type=password] {
+  padding: 10px;
+  font-size: 15px;
+}
